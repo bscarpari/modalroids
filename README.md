@@ -1,18 +1,15 @@
-# Reacteroids
-A implementation of the classic Asteroids game using React and Canvas in es6
-
-This was built with using the react transform boilerplate from
-https://github.com/gaearon/react-transform-boilerplate
+# Modalroids
+A implementation of the classic Asteroids game using React and Canvas in ES6
 
 ## Demo
 
-http://chriz001.github.io/Reacteroids/
+https://bscarpari.github.io/modalroids/
 
-## Install
+## How to run in localhost
 
-npm install
-npm start
+- First, execute this commands in the shell
+ npm i
+ npm start
 
-## Play
-
-Open http://localhost:3000
+- And 
+Open your favorite browse and copy this URL: http://localhost:3000
